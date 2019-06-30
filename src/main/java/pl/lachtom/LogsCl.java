@@ -69,6 +69,8 @@ public class LogsCl implements Comparable<LogsCl> {
     public int compareTo(LogsCl o) {
         return this.date.compareTo(o.date);
     }
+
+
 }
 
 
